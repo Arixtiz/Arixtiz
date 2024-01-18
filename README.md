@@ -20,14 +20,9 @@ Here are some ideas to get you started:
 
 ### Tech Stack 🔧
 
-- **Frontend:** JavaScript, React
-- **Backend:** Node.js, Express
-- **Base de Datos:** MongoDB
-
-### Proyectos Destacados 🌟
-
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto y su impacto.
-- [Proyecto 2](enlace-al-proyecto-2): Otra descripción destacada.
+- **Frontend:** JavaScript, React, Python, Flask
+- **Backend:** Node.js, Express, Python, FastAPI
+- **Base de Datos:** MongoDB, Postgres, SQL
 
 ### Hablemos de Código 🤓
 
@@ -37,6 +32,6 @@ const arixtiz = {
   code: ["JavaScript", "React", "Node.js", "HTML", "CSS"],
   tools: ["Git", "VSCode", "MongoDB"],
   architecture: ["Microservices", "RESTful APIs"],
-  funFact: "¡La cafeína es mi combustible para codificar!",
+  funFact: "¡Me encanta evolucionar!",
 };
 
