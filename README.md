@@ -1,4 +1,3 @@
-# ¡Hola, soy Arixtiz! 👋
 <!--
 **Arixtiz/Arixtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
