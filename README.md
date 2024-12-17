@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arixtiz&show_icons=true&locale=en" alt="arixtiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arixtiz&" alt="arixtiz" /></p>
+
+<img src="https://camo.githubusercontent.com/d9ef1ea986d6e1a7d3c74b17751179c39d4bc97562e36169aa2c57fed133c1ab/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6172697874697a26"></img>
