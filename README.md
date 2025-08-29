@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arixtiz" alt="arixtiz" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform and Solidity**
+- 🌱 I’m currently learning **Terraform and Flutter**
 
-- 💬 Ask me about **react, fastapi, flask and more**
+- 💬 Ask me about **Cibersecurity, architecture, react, fastapi, flask and more**
 
 - 📫 How to reach me **juanjosearisti0202@gmail.com**
 
